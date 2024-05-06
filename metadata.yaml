@@ -1,0 +1,49 @@
+_repo: L-anitra-selvatica_73439
+_version: 0.0.1
+alternative_title: Vildanden. Italian
+contributor:
+  translators:
+  - agent_name: Polese Santarnecchi, Enrico
+    alias: Santarnecchi, Enrico Polese
+    birthdate: 1873
+    deathdate: 1937
+    gutenberg_agent_id: '56050'
+    url: http://www.gutenberg.org/2009/agents/56050
+  - agent_name: Rindler, Paolo
+    gutenberg_agent_id: '56044'
+    url: http://www.gutenberg.org/2009/agents/56044
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    aliases:
+    - Ibsen, Enrico
+    - Ibsen, Henryk
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henrik_Ibsen
+    - https://no.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2024-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73439'
+language: it
+pgterms:marc904: http://archive.org/details/ibsen-anitra-selvatica
+pgterms:marc905: 20230714042311ibsen
+pgterms:marc906: '1912'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aMilano :$bTreves, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into Italian'
+- !lcc 'PT'
+- GITenberg
+title: L'anitra selvatica
+url: http://www.gutenberg.org/ebooks/73439
